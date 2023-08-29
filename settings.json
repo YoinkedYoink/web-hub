@@ -1,0 +1,31 @@
+{
+    "aimbot": {
+        "fov": 50,
+        "hitpart": "Head",
+        "fovcircle": true,
+        "snapline": true,
+        "autoshoot": true,
+        "sensitivity": 1,
+        "keybind": "X"
+    },
+
+    "visuals": {
+        "esp": false
+    },
+
+    "movement": {
+        "speed": false,
+        "speedvalue": 5,
+        "flyvalue": 4.5,
+        "flykeybind": "E"
+    },
+
+    "rage": {
+        "spinbot": false,
+        "spinspeed": 5
+    },
+
+    "misc": {
+        
+    }
+}
